@@ -1,7 +1,7 @@
 # Bölgelere Ayrılmış SVG Türkiye Haritası
 
 Bu proje https://github.com/dnomak/svg-turkiye-haritasi ana kaynağından fork edilmiştir.
-SVG formatlı Türkiye haritası. Kıbrıs Türkiye haritasından çıkarılmış ve her il kendi gölgesinin arkaplan rengini almıştır.
+SVG formatlı Türkiye haritası. Kıbrıs Türkiye haritasından çıkarılmış ve her il kendi bölgesinin arkaplan rengini almıştır.
 
 ## Canlı Demo
  - https://codepen.io/tr36/pen/qMMezb
