@@ -16,20 +16,40 @@
 .il-isimleri div {
   font-family: 'Open Sans';
   display: inline-block;
-  background: #1094F6;
+  background: #222;
   color: #fff;
   padding: 8px 16px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
+
+/*! Fork sonrası CSS revizeleri ve eklemeleri */
 #svg-turkiye-haritasi path {
   cursor: pointer;
-  fill: #222;
 }
 #svg-turkiye-haritasi path:hover {
-  fill: #1094F6;
+  fill: #666;
 }
-#guney-kibris {
-  pointer-events: none;
+#bolge-1 g path{
+  fill:#87cdde
 }
+#bolge-2 g path{
+  fill:#ac93a7
+}
+#bolge-3 g path{
+  fill:#ffb380
+}
+#bolge-4 g path{
+  fill:#cccccc
+}
+#bolge-5 g path{
+  fill:#decd87
+}
+#bolge-6 g path{
+  fill:#de8787
+}
+#bolge-7 g path{
+  fill:#aade87
+}
+
