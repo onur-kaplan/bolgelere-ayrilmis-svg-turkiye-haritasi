@@ -1,11 +1,12 @@
-# [SVG Türkiye Haritası](http://dnomak.com/svg-turkiye-haritasi/)
+# [Bölgelere Ayrılmış SVG Türkiye Haritası]
 
-Bu SVG Türkiye Haritası'nda İstanbul Asya ve Avrupa ayrı Kıbrıs da var hem de Responsive :)
+Bu proje https://github.com/dnomak/svg-turkiye-haritasi ana kaynağından fork edilmiştir.
+SVG formatlı Türkiye haritası. Kıbrıs Türkiye haritasından çıkarılmış ve her il kendi gölgesinin arkaplan rengini almıştır.
 
-## Önizleme
- - [Önizleme](http://dnomak.com/svg-turkiye-haritasi/)
- - [Harita Kaynağı](https://commons.wikimedia.org/wiki/File:Turkey_provinces_blank_gray.svg)
+## Canlı Demo
+ - https://codepen.io/tr36/pen/qMMezb
 
-## Lisans
-- SVG Türkiye Haritası MIT Lisansı altında lisanslanmıştır.
-  - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
+## Teşekkürler
+Doğukan Güven Nomak -> https://github.com/dnomak
+
+
